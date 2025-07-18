@@ -27,7 +27,8 @@
 
 Projeye ait kısa bir ekran kaydını aşağıda bulabilirsiniz:
 
-![CryptoVerse Demo](cryptoverse-demo.gif)
+![EkranKayd2025-06-3021 21 48-ezgif com-video-to-gif-converter (12)](https://github.com/user-attachments/assets/a324d23f-bae7-4084-8d84-ea70884f1c0e)
+
 
 ---
 
